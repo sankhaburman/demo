@@ -12,6 +12,8 @@ public class HelloGit {
 		System.out.println("Hello Git!!!");
 		System.out.println("first commmit");
 		System.out.println("second commmit");
+		
+		System.out.println("third commit");
 	}
 
 }
