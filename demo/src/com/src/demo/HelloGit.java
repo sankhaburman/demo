@@ -13,6 +13,7 @@ public class HelloGit {
 		for (String n : name) {
 			System.out.println(n);
 		}
+		System.out.println("New Greeting");
 		
 		
 	}
