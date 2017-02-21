@@ -8,12 +8,13 @@ package com.src.demo;
  *
  */
 public class HelloGit {
-	public static void main(String gg[]){
-		System.out.println("Hello Git!!!");
-		System.out.println("first commmit");
-		System.out.println("second commmit");
+	public static void main(String gg[]) {
+		String[] name = { "Ahir", "Moon" };
+		for (String n : name) {
+			System.out.println(n);
+		}
 		
-		System.out.println("third commit");
+		
 	}
 
 }
